@@ -20,7 +20,7 @@ const ProjectCardData = [ //Array
         imgsrc: Pro3,
         title: 'Rock, Paper, Scissors Game',
         text: 'Creating a simple Web game using HTML, CSS, and JavaScript. Player compete with the computer',
-        view: 'https://drive.google.com/file/d/1IC5yePxI7IKOzLYYxdySiEk9EbRLkBBc/view?usp=sharing'
+        view: 'https://my-rockpaperscissorsgame.vercel.app/'
     },
     {
         imgsrc: Pro4,
