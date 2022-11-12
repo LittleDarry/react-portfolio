@@ -19,11 +19,11 @@ const Footer = () => {
                 <div className="leftbox">
                     <IoSchoolOutline size={25} style={{color: "white", marginRight: "36px"}}/>
                     <div>
+                        <p>IIE MSA 2022-Current</p>
+                        <p>Bachelor of Computer and information Science Honours</p>
                         <p>IIE Varsity College 2019-2021</p>
                         <p>Bachelor of Computer and Information Science</p>
                         <p>in Application Development</p>
-                        <p>IIE MSA 2022-Current</p>
-                        <p>Bachelor of Computer and information Science Honours</p>
                     </div>
                 </div>
 
